@@ -1,0 +1,3 @@
+C:/Users/Andrei/Desktop/Teme_tp/Sapt_7/EXEMPLUL_2/cmake-build-debug/CMakeFiles/EXEMPLUL_2.dir
+C:/Users/Andrei/Desktop/Teme_tp/Sapt_7/EXEMPLUL_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/Teme_tp/Sapt_7/EXEMPLUL_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

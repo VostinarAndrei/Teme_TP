@@ -1,0 +1,3 @@
+C:/Users/Andrei/Desktop/Teme_tp/Sapt_8/EX_8.4/cmake-build-debug/CMakeFiles/EX_8_4.dir
+C:/Users/Andrei/Desktop/Teme_tp/Sapt_8/EX_8.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/Teme_tp/Sapt_8/EX_8.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
